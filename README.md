@@ -11,3 +11,9 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+Esta es otra línea en R
+
+```R
+set.sed(123456)
+```
