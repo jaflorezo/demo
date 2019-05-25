@@ -16,4 +16,5 @@ Esta es otra línea en R
 
 ```R
 set.sed(123456)
+for i in 1:3
 ```
